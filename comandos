@@ -1,0 +1,2 @@
+// python -m venv lonardo  === criar amb virtual
+// python .\manage.py runserver roda servidor
